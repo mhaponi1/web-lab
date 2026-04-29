@@ -1,0 +1,16 @@
+{
+  "umiejetnosci": [
+    "Java (Spring Boot, Maven)",
+    "JavaScript / Node.js (Express, REST API)",
+    "C++ (podstawy)",
+    "Bazy danych: MySQL, PostgreSQL, Redis",
+    "Linux (Ubuntu, Debian) - administracja i konfiguracja",
+    "Docker (konteneryzacja aplikacji)",
+    "Git i kontrola wersji",
+    "SQL i projektowanie baz danych"
+  ],
+  "projekty": [
+    "Mod PvP do Minecraft - autorski mod, 4 000 graczy dziennie",
+    "Serwer Minecraft - publiczny serwer, rekord 450 graczy"
+  ]
+}
